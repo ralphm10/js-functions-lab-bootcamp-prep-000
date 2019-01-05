@@ -3,6 +3,6 @@ function happyHolidays (String) {
 return "Happy holidays!"
 }
 
-function happyHolidaysTo (String) {
+function happyHolidaysTo (name) {
   return "`Happy holidays, ${name}!`"
 }
