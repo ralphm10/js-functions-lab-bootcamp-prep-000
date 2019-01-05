@@ -1,3 +1,3 @@
 // write your code below!
-Function happyHolidays (String)
+function happyHolidays (String)
 return "happyHolidays!"
